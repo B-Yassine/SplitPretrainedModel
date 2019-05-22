@@ -10,3 +10,7 @@ We need to find the connectivity of the layers and traverse that connectivity ma
     4/ Apply the last layer on the collected output.
 
 Step #3 implies a recursion: to get the output of connected layers (i.e. X), we first need to find their connected layers (i.e. Y), get their outputs (i.e. outputs of Y) and then apply them on those outputs (i.e. apply X on outputs of Y)
+
+
+
+All can be found [here](https://stackoverflow.com/questions/56147685/how-to-split-a-keras-model-with-a-non-sequential-architecture-like-resnet-into)
