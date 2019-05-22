@@ -1,2 +1,2 @@
-# SplitPretrainedModel
-Split any pretrained model at any intermediate layer 
+# SplitPretraineResNetdModel
+Split pretrained ResNet model at any intermediate layer 
